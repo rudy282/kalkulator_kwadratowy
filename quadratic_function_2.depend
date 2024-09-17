@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1700165532 source:c:\users\rudy\desktop\quadratic_function_2\math.cpp
+	"hider.h"
+	<tchar.h>
+	<windows.h>
+	<iostream>
+	<cmath>
+	<string>
+	<sstream>
+
+1700164527 c:\users\rudy\desktop\quadratic_function_2\hider.h
+	<string>
+
+1700170258 source:c:\users\rudy\desktop\quadratic_function_2\main.cpp
+	<tchar.h>
+	<windows.h>
+	<iostream>
+	<cmath>
+	<string>
+	<sstream>
+	"hider.h"
+	"hider2.h"
+
+1700169988 source:c:\users\rudy\desktop\quadratic_function_2\draw.cpp
+	<windows.h>
+	<sstream>
+	<iomanip>
+
+1700166692 c:\users\rudy\desktop\quadratic_function_2\hider2.h
+
+1700222626 source:d:\school\projektowanie aplikacji desktopowy\winapi\quadratic_function\main.cpp
+	<tchar.h>
+	<windows.h>
+	<iostream>
+	<cmath>
+	<string>
+	<sstream>
+	"hider.h"
+	"hider2.h"
+
+1700164528 d:\school\projektowanie aplikacji desktopowy\winapi\quadratic_function\hider.h
+	<string>
+
+1700166694 d:\school\projektowanie aplikacji desktopowy\winapi\quadratic_function\hider2.h
+
+1700222410 source:d:\school\projektowanie aplikacji desktopowy\winapi\quadratic_function\draw.cpp
+	<windows.h>
+	<sstream>
+	<iomanip>
+
+1700222468 source:d:\school\projektowanie aplikacji desktopowy\winapi\quadratic_function\math.cpp
+	"hider.h"
+	<tchar.h>
+	<windows.h>
+	<iostream>
+	<cmath>
+	<string>
+	<sstream>
+
+1700214646 d:\school\projektowanie aplikacji desktopowy\winapi\quadratic_function\resource.h
+
